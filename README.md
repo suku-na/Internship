@@ -94,5 +94,5 @@ The generated report includes:
 ---
 
 ## 👨‍💻 Author
-Developed by **[Your Name]**  
-📧 Contact: your.email@example.com  
+Developed by **Sumit Kumar**  
+📧 Contact: sk01867@gmail.com
